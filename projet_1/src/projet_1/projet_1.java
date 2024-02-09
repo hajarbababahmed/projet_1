@@ -1,8 +1,8 @@
-package projet1;
+package projet_1;
 import java.util.Scanner;
 
 
-public class Hello {
+public class projet_1{
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
